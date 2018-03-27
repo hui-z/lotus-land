@@ -8,11 +8,12 @@
 
 ## 日程表
 
-|| 时间 || 人物 || 主题 ||
-| 17年 | [YanyunHuang][YanyunHuang] | [RxJava入门][rxjava] |
-| 18年2月 | [lxkaka][lxkaka] | [Redis高可用梳理][redis] |
-| 18年3月26日 | [LKI][LKI] | [如何带节奏][influence] |
-| On Going | [hulucc][hulucc] | 依赖注入详解 |
+ 时间 | 人物 | 主题
+--- | --- | ---
+17年 | [YanyunHuang][YanyunHuang] | [RxJava入门][rxjava]
+18年2月 | [lxkaka][lxkaka] | [Redis高可用梳理][redis]
+18年3月26日 | [LKI][LKI] | [如何带节奏][influence]
+On Going | [hulucc][hulucc] | 依赖注入详解
 
 [YanyunHuang]: https://github.com/YanyunHuang
 [rxjava]: https://zhuanlan.zhihu.com/p/31413825
