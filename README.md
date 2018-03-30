@@ -27,6 +27,7 @@
 18年3月26日 | [LKI][LKI] | [如何带节奏][influence]
 18年3月28日 | [hulucc][hulucc] | 依赖注入详解 <作业中>
 18年4月4日 | [jkzing][jkzing] | <待定>
+18年4月18日 | [quark][quark] | 如何快速开发一款属于自己的小程序
 
 [YanyunHuang]: https://github.com/YanyunHuang
 [rxjava]: https://zhuanlan.zhihu.com/p/31413825
@@ -38,4 +39,5 @@
 [influence]: http://www.liriansu.com/slides/influence
 [hulucc]: https://github.com/hulucc
 [jkzing]: https://github.com/jkzing
+[quark]: https://github.com/huangzilong
 
