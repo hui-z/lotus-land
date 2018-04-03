@@ -26,7 +26,7 @@
 18年3月20日 | [PatrickCai][patrickcai] | Bloom Filter <作业中>
 18年3月26日 | [LKI][LKI] | [如何带节奏][influence]
 18年3月28日 | [hulucc][hulucc] | 依赖注入详解 <作业中>
-18年4月4日 | [jkzing][jkzing] | <待定>
+18年4月4日 | [jkzing][jkzing] | 如何给开源项目做贡献
 18年4月18日 | [quark][quark] | 如何快速开发一款属于自己的小程序
 
 [YanyunHuang]: https://github.com/YanyunHuang
