@@ -28,6 +28,7 @@
 18年3月28日 | [hulucc][hulucc] | 依赖注入详解 <作业中>
 18年4月4日 | [jkzing][jkzing] | 如何给开源项目做贡献
 18年4月18日 | [quark][quark] | 如何快速开发一款属于自己的小程序
+18年5月2日 | [hyjfine][hyjfine] | [MVVM实践][mvvm]
 
 [YanyunHuang]: https://github.com/YanyunHuang
 [rxjava]: https://zhuanlan.zhihu.com/p/31413825
@@ -40,4 +41,5 @@
 [hulucc]: https://github.com/hulucc
 [jkzing]: https://github.com/jkzing
 [quark]: https://github.com/huangzilong
-
+[hyjfine]: https://github.com/hyjfine
+[mvvm]: https://github.com/hyjfine/swiftCalculator
