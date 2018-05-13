@@ -29,6 +29,7 @@
 18年4月4日 | [jkzing][jkzing] | 如何给开源项目做贡献
 18年4月18日 | [quark][quark] | 如何快速开发一款属于自己的小程序
 18年5月9日 | [hyjfine][hyjfine] | [MVVM实践][mvvm]
+18年5月16日 | [sjy][sjy] | 微前端 - 改善既有大型SPA的艺术
 
 [YanyunHuang]: https://github.com/YanyunHuang
 [rxjava]: https://zhuanlan.zhihu.com/p/31413825
