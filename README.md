@@ -30,6 +30,7 @@
 18年4月18日 | [quark][quark] | 如何快速开发一款属于自己的小程序
 18年5月9日 | [hyjfine][hyjfine] | [MVVM实践][mvvm]
 18年5月16日 | [sjy][sjy] | 微前端 - 改善既有大型SPA的艺术
+18年5月24日| [wangfengguo][wangfengguo] | graphql-真的能替代restful么？
 
 [YanyunHuang]: https://github.com/YanyunHuang
 [rxjava]: https://zhuanlan.zhihu.com/p/31413825
@@ -44,3 +45,5 @@
 [quark]: https://github.com/huangzilong
 [hyjfine]: https://github.com/hyjfine
 [mvvm]: https://github.com/hyjfine/swiftCalculator
+[wangfengguo]: https://github.com/Fernandoize
+
