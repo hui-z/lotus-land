@@ -46,4 +46,6 @@
 [hyjfine]: https://github.com/hyjfine
 [mvvm]: https://github.com/hyjfine/swiftCalculator
 [wangfengguo]: https://github.com/Fernandoize
+[sjy]: https://github.com/sjy
+
 
